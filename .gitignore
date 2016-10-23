@@ -38,3 +38,31 @@ captures/
 
 # Keystore files
 *.jks
+
+.idea/libraries/design_24_2_1.xml
+
+.idea/libraries/design_24_2_1.xml
+
+.idea/libraries/espresso_core_2_2_2.xml
+
+.idea/libraries/design_24_2_1.xml
+
+.idea/libraries/recyclerview_v7_24_2_1.xml
+
+.idea/libraries/runner_0_5.xml
+
+.idea/libraries/support_core_utils_24_2_1.xml
+
+.idea/modules.xml
+
+.idea/misc.xml
+
+.idea/libraries/support_vector_drawable_24_2_1.xml
+
+.idea/libraries/support_v4_24_2_1.xml
+
+.idea/libraries/support_media_compat_24_2_1.xml
+
+.idea/libraries/support_fragment_24_2_1.xml
+
+.idea/libraries/support_compat_24_2_1.xml
