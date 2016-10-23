@@ -1,4 +1,4 @@
-package com.example.burcakdemircioglu.rotaract_district_guide;
+package com.example.burcakdemircioglu.rotary_district_guide;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

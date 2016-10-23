@@ -1,4 +1,4 @@
-package com.example.burcakdemircioglu.rotaract_district_guide;
+package com.example.burcakdemircioglu.rotary_district_guide;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

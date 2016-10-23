@@ -1,4 +1,4 @@
-package com.example.burcakdemircioglu.rotaract_district_guide;
+package com.example.burcakdemircioglu.rotary_district_guide;
 
 import org.junit.Test;
 
