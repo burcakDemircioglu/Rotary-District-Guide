@@ -20,6 +20,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <provider
+            android:name=".data.MemberProvider"
+            android:authorities="com.example.burcakdemircioglu.rotary_district_guide"
+            android:exported="false" />
+
+        <!--<service-->
+            <!--android:name=".data.InfoLoadService"-->
+            <!--android:exported="false" />-->
     </application>
 
 </manifest>
